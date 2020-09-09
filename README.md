@@ -4,10 +4,10 @@
 
 - Five（我是废物）
 - Bad code
-- The stars, my destination.（啥都不精通，啥都想学，间歇性堕落）
+- The stars, my destination.（啥都不精通，啥都想学一点点，间歇性堕落）
 - ∞
 
-其实你不是真的很有趣，你只是太孤独。这个你，就是我。
+其实你不是真的很有趣，你只是太废物。这个你，就是我。
 
 ## About
 
