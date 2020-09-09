@@ -10,6 +10,8 @@
 
 📝 [Blog](https://i.vince.pub/)  |  🔌 [Zhihu](https://www.zhihu.com/people/vince-best)  |  🚀[Weibo](https://weibo.com/u/2422015477)
 
-👬 ** If you you feel like to contact me, Please send a Email. **
+👬 If you you feel like to contact me, Please send a Email.
 
-🍉 admin[AT]vince.pub
+✉️ admin[AT]vince.pub
+
+##### 🍉 vince.pub 
