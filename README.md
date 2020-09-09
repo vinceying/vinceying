@@ -11,3 +11,7 @@
 📝 [Blog](https://i.vince.pub/)  |  🔌 [Zhihu](https://www.zhihu.com/people/vince-best)  |  🚀[GitHub](https://github.com/vinceying)
 
 👬 If you you feel like to contact me, Please send a Email.(admin[AT]vince.pub)
+
+- - -
+
+Vince.pub
