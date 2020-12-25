@@ -9,5 +9,11 @@
 
 # Hi there 👋
 
-- A fxxking school student from China
-- A Programmer during the study
+- 🙋‍♂️ A fxxking school student from China
+- 👨‍💻 A Programmer during the study
+
+## 🍉
+
+- ⚡ JavaScript / CSS / HTML / Python (average)
+- 📫 How to reach me: [@vince](mailto:admin@vince.pub)
+- 🍻 Fun fact: five and fat
