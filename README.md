@@ -7,13 +7,12 @@
 |___/     |_| |_|  \_| \_____| |_____|  /_/     |_| |_|  \_| \_____/ 
 ```
 
-# Hi there 👋
+## Hi there 👋
 
 - 🙋‍♂️ A fxxking school student from China
 - 👨‍💻 A Programmer during the study
-
-## 🍉
-
 - ⚡ JavaScript / CSS / HTML / Python (average)
 - 📫 How to reach me: [@vince](mailto:admin@vince.pub)
 - 🍻 Fun fact: five and fat
+
+#### [@Portfolio](https://www.vince.pub/) · [@Blog](https://i.vince.pub/) · [@GitHub](https://github.com/vinceying)
