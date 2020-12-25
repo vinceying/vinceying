@@ -15,6 +15,4 @@
 - 📫 How to reach me: [@vince](mailto:admin@vince.pub)
 - 🍻 Fun fact: five and fat
 
-© VinceYing  | ✨ [Portfolio](https://www.vince.pub/) | ✍ [Blog](https://i.vince.pub/) | 🍉 [GitHub](https://github.com/vinceying)
-
-<h6>*LICENSED UNDER CC BY-NC-SA 4.0 </h6>
+#### © VinceYing  | ✨ [Portfolio](https://www.vince.pub/) | ✍ [Blog](https://i.vince.pub/) | 🍉 [GitHub](https://github.com/vinceying)
