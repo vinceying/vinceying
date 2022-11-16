@@ -9,7 +9,7 @@
 
 ## Hi there 👋
 
-- 🙋‍♂️ A fxxking school student from China
+- 🙋‍♂️ Student
 - 👨‍💻 A Programmer during the study
 - ⚡ JavaScript / CSS / HTML / Python (average)
 - 📫 How to reach me: [@vince](mailto:admin@vince.pub)
